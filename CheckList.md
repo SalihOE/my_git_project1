@@ -1,0 +1,3 @@
+- [] Gather initial set of requirements
+- [] Adapt a littar of puppies for "user testing"
+- [] Demo first version
